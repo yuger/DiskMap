@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">DiskMap</string>
+
+    <string name="app_description">Utility to examine SDcard content and cleanup some space there.</string>
+    <string name="scaning_directories">Scanning directories...</string>
+    <string name="button_show">Show</string>
+    <string name="button_delete">Delete</string>
+    <string name="button_rescan">Rescan</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_background">Background</string>
+    <string name="install_oi_file_manager">Install &quot;Solid Explorer&quot; to view directories</string>
+    <string name="title_for_path">%s</string>
+    <string name="title_in_oi_file_manager">Solid Explorer</string>
+    <string name="button_text_in_oi_file_manager">Return to DiskUsage</string>
+    <string name="no_viewer_found">No viewer found</string>
+    <string name="ask_to_delete_directory">Delete %s directory?</string>
+    <string name="ask_to_delete_file">Delete %s file?</string>
+    <string name="out_of_memory">Not enough memory!</string>
+    <string name="empty_or_missing_sdcard">Empty or missing sdcard</string>
+    <string name="path_doesnt_exist">%s\ndoesn\'t exist</string>
+    <string name="file_deleted">File deleted</string>
+    <string name="error_file_wasnt_deleted">Error: file wasn\'t deleted</string>
+    <string name="deleting_path">Deleting %s</string>
+    <string name="deleted_n_directories_and_n_files">Deleted %1$d directories and %2$d files</string>
+    <string name="deleted_n_directories_and_files_and_canceled">Delete canceled: %1$d directories and %2$d files so far</string>
+    <string name="deleted_n_directories_and_n_files_and_failed">Delete failed!: %1$d directories and %2$d files was deleted</string>
+    <string name="n_bytes">%d bytes</string>
+    <string name="n_kilobytes">%d KiB</string>
+    <string name="n_megabytes">%5.2f MiB</string>
+    <string name="n_megabytes10">%5.1f MiB</string>
+    <string name="n_megabytes100">%d MiB</string>
+    <string name="dir_name_size_num_dirs">%1$s (%2$s, %3$d dirs)</string>
+    <string name="dir_empty">%s (empty)</string>
+    <string name="dir_name_size">%1$s (%2$s)</string>
+    <string name="apps_bulk_uninstall_not_supported">Uninstall multiple apps not supported</string>
+    <string name="app_storage">App Storage</string>
+    <string name="storage_card">Storage card</string>
+    <string name="delete_summary">%1$d files, total size: %2$s</string>
+    <string name="change_filter">Filter...</string>
+    <string name="apps_filter">Apps Filter</string>
+    <string name="internal_only">Internal Only</string>
+    <string name="internal_only_desc">Exclude data stored on SD Card</string>
+    <string name="show_apk">Show Apk</string>
+    <string name="show_apk_desc">Display application files.</string>
+    <string name="show_data">Show Data</string>
+    <string name="show_data_desc">Display storage allocated for application data.</string>
+    <string name="show_dalvikcache">Show DalvikCache</string>
+    <string name="show_dalvikcache_desc">Display dalvikCache allocated for your apps on your data partition.</string>
+    <string name="show_cache">Show Cache</string>
+    <string name="show_cache_desc">Application cache uses different partition and can\'t be used by apk and data.</string>
+    <string name="select_apps">Select apps</string>
+    <string name="select_storage">Select storage</string>
+    <string-array name="select_apps">
+        <item>On phone.</item>
+        <item>On sd card.</item>
+        <item>Both.</item>
+    </string-array>
+    <string-array name="select_storage">
+        <item>Show phone memory.</item>
+        <item>Show sd card memory.</item>
+        <item>Show both.</item>
+    </string-array>
+<string name="google_crawl">Google Search Crawl</string>
+</resources>
