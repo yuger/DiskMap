@@ -1,2 +1,11 @@
 # DiskMap
-DiskMap bringing you an overall view of your disk and allows you to delete your *own* files (pictures, videos, musics...) as well as cache files. To do that, DiskMap is based on a interactive map of all the files and folders contained in your disk. The bigger a file is on the screen, the bigger it is on the disk.
+
+
+# License
+(c) 2016 yuger
+
+This is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+This software is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this app. If not, see https://www.gnu.org/licenses/.
